@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit:ital@0;1&display=swap');
+
+
+
+body {
+    background-color: rgba(186, 189, 194, 0.425);
+    background-image: url(./imgs/vincent-guth-62V7ntlKgL8-unsplash.jpg);
+    flood-opacity: 0%;
+    fill-opacity: calc(10);
+    float: inline-start;
+}
+
+h1 {
+    background-color: #154;
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+    font-weight: 300;
+    font-size: 60px;
+    text-align: center;
+}
+
+.img {
+    max-width: 8.8%;
+    float: left;
+    margin-left: 5%;
+
+}
+
+h2 {
+    font-size: 35x;
+    text-align: center;
+    background-color: #154;
+
+}
+
+.h3 {
+    font-family: 'Tiro Devanagari Sanskrit', serif;
+    font-weight: 200;
+    font-size: 20px;
+    background-color: #154;
+    line-height: 4;
+    text-align: center;
+    
+}
+
+ul {
+    list-style-type: none;
+    color: aliceblue;
+
+}
+
+.liner {
+    display: inline;
+}
+
+.block {
+    display: block;
+    line-height: 5;
+    line-break: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20;
+    color: antiquewhite;
+}
+
+.space {
+    line-height: 4;
+}
+
+#space2 {
+    line-height: 2;
+    color: rgba(186, 189, 194, 0);
+}
+
+footer {
+    text-align: center;
+    background-color: #154;
+}
+
+.boutme {
+    background-image: url(./imgs/andre-benz-qJfznuTMAYA-unsplash.jpg);
+    max-width: fit-content;
+}
+
+.yadda {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: aliceblue;
+}
